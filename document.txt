@@ -1,0 +1,20 @@
+Java script Functions :
+
+** Function is a codeblock which we can use many times for our use .
+Funhction == Re-useble code blocks. 
+
+        Basic Format of function :
+
+        function SayMyName (){
+            elements/others things 
+        }
+
+        SayMyName (); ---- this is called arrguments / this is also use to execute a function without this the function will not run .
+
+
+Here : function is function ,
+        SayMyName is function name ,
+        () is parent thesis.
+
+
+

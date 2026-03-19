@@ -5,8 +5,8 @@
 //  const sum = addTwoNumbers(5, 10);
 //  console.log("sum :", sum)
 
-function loginUsermessage(username){
-     
-    return `welcome back ${username}`;
-}   
- console.log(loginUsermessage("Faizaaa"));
+let Fruits = ["Apple", "Banana", "Cherry", "Date", "Elderberry"];
+for (let i = 0; i < Fruits.length; i++) {
+    console.log(i)
+    console.log(Fruits[i]);
+}

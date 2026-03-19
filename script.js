@@ -6,7 +6,6 @@
 //  console.log("sum :", sum)
 
 let Fruits = ["Apple", "Banana", "Cherry", "Date", "Elderberry"];
-for (let i = 0; i < Fruits.length; i++) {
-    console.log(i)
-    console.log(Fruits[i]);
-}
+console.log(Fruits);
+Fruits.push("Fig");
+console.log(Fruits);
